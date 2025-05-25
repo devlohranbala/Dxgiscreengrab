@@ -1,4 +1,4 @@
-# DxgiCapture
+# Dxgiscreengrab
 
 Uma biblioteca Rust para captura eficiente de regiões da tela no Windows usando DirectX Graphics Infrastructure (DXGI) e Direct3D 11.
 
